@@ -1,13 +1,16 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
 
-![](screenshot.png)
 
-#### Installation
-+   download
-+   copy to `~/Library/Application Support/Übersicht/widgets/datetime.widget`
+[![](https://img.shields.io/pypi/v/uebersicht-ip.svg?maxAge=3600)](https://pypi.org/project/uebersicht-ip/)
+[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/uebersicht-ip.widget/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/uebersicht-ip.widget/actions)
+
+### Installation
+```bash
+$ [sudo] pip install uebersicht-ip
+```
 
 #### Config
 `~/.bashrc`
@@ -16,5 +19,5 @@ export UEBERSICHT_PING_HOST='google.com'
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
